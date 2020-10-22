@@ -2,7 +2,7 @@
  * @Author: Chengbotao
  * @Description: Nav config
  * @Date: 2020-10-18 23:47:35
- * @LastEditTime: 2020-10-22 17:11:48
+ * @LastEditTime: 2020-10-23 00:58:21
  * @LastEditors: Chengbotao
  * @FilePath: \lanbitao\docs\.vuepress\config\theme.nav.js
  */
@@ -29,7 +29,7 @@ module.exports = [{
   }, {
     text: '设计模式',
     link: '//'
-  },{
+  }, {
     text: '构建工具',
     link: '/tools/'
   }]
@@ -39,6 +39,12 @@ module.exports = [{
   items: [{
     text: 'Bugs',
     link: '//'
+  }, {
+    text: 'Utils',
+    link: '/utils/utils'
+  }, {
+    text: "Base",
+    link: "/base/summary"
   }]
 }
 ]

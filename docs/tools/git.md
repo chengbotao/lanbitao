@@ -41,6 +41,9 @@
 
 ## 文件暂存
 
+git stash 
+git stash pop
+
 ## 
 
 git rabse -i 
